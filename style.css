@@ -1,0 +1,78 @@
+﻿@font-face {
+    font-family: 'Tahoma-Regular';
+    src: url('fonts/Tahoma-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}	
+body {
+	height: 550px;
+	width: 400px;
+	background-color: #ffffff;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+.wrapper {
+	height: 530px;
+	width: 380px;
+	border: 2px solid #5a5a5a;
+	margin: 10px 10px 10px 10px;
+}
+h1 {
+	font-family: 'Tahoma-Regular';
+	font-weight: bold;
+	text-align: center;
+	font-size: 22px;
+	color: #242424;
+}
+img.LenovoTab {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+img.rectangle {
+	float: left;
+}
+.Leaseblock {
+	margin-bottom: 19px;
+}
+p.lease {
+	font-family: 'Tahoma-Regular';
+	font-weight: bold;
+	display: inline;
+	font-size: 22px;
+	margin-left: -146px;
+	color: #ffffff;
+}
+.price {
+	font-family: 'Tahoma-Regular';
+	text-align: center;
+	font-size: 31px;
+	font-weight: bold;
+	margin-bottom: 21px;
+	margin-top: auto;
+}
+.button {
+	font-family: 'Tahoma-Regular';
+	text-align: center;
+	font-size: 28px;
+	margin-right: auto;
+	margin-left: auto;
+    background: url("./img/rectangle_2.png") no-repeat;
+    height: 46px;
+    width: 229px;
+    padding-top: 3px;
+}
+a {
+	text-decoration: none;
+	color: #ffffff;
+	text-shadow: -1px 1px 1px black;
+	font-weight: bold;
+}
+.border_bottom {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	margin-top: -3px;
+	width: 229px;
+}
